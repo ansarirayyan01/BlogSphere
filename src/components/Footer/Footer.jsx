@@ -9,13 +9,8 @@ function Footer() {
         <div className="-m-6 flex flex-wrap">
           <div className="w-full p-6 md:w-1/2 lg:w-5/12">
             <div className="flex h-full flex-col justify-between">
-              <div className="mb-4 inline-flex items-center">
+              <div className="mb-4 inline-flex items-center text-lg">
                 <Logo width="100px" />
-              </div>
-              <div>
-                <p className="text-sm text-gray-200">
-                  &copy; Copyright 2024. All Rights Reserved by Rayyan Ansari.
-                </p>
               </div>
             </div>
           </div>
@@ -133,6 +128,11 @@ function Footer() {
                 </li>
               </ul>
             </div>
+          </div>
+          <div className="relative left-[10px]">
+            <p className="text-lg text-gray-200 ">
+              &copy; Copyright 2024. All Rights Reserved by Rayyan Ansari.
+            </p>
           </div>
         </div>
       </div>
