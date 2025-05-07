@@ -1,8 +1,8 @@
-# MegaBlog 📝
+# BlogSphere 📝
 
 A modern, feature-rich blogging platform built with React and Appwrite.
 
-![MegaBlog Logo](public/vite.svg)
+![BlogSphere Logo](public/logo.svg)
 
 ## ✨ Features
 
@@ -37,7 +37,7 @@ Before you begin, ensure you have the following installed:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/megablog.git
+   git clone https://github.com/yourusername/blogsphere.git
    cd BlogSphere
    ```
 
@@ -86,7 +86,7 @@ src/
 
 ## 📱 Responsive Design
 
-MegaBlog is built with a mobile-first approach, ensuring a great user experience across devices:
+BlogSphere is built with a mobile-first approach, ensuring a great user experience across devices:
 - Mobile: < 640px
 - Tablet: 768px - 1024px
 - Desktop: > 1024px
